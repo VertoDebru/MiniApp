@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531219032515",
+    "project_id": "mini-app-88dec",
+    "storage_bucket": "mini-app-88dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531219032515:android:9492f8276e7a734c3ef576",
+        "android_client_info": {
+          "package_name": "com.kosmos.kosmos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531219032515-i8lortr4bh7gsj2patrvurt61dmq8047.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAse24yz8jUkeVGgGNcy9c-l_G6aRE_0bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531219032515-i8lortr4bh7gsj2patrvurt61dmq8047.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
